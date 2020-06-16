@@ -1,2 +1,2 @@
-# Jyoti-Mahajan
-Survey- Feedback Form
+# Survey- Feedback Form
+Used HTML, JavaScript, CSS
